@@ -23,3 +23,11 @@ You can install the required libraries with:
 ```bash
 pip install requests customtkinter pillow
 ```
+## Setup
+- Clone the repository or copy the code into a new Python file named app.py.
+
+- Obtain an Unsplash API access key:
+
+- Sign up on Unsplash Developers and create a new application to get an API key.
+- Replace client_id=YOUR_ACCESS_KEY in the code with your actual API key.
+- Run the program:
