@@ -38,3 +38,10 @@ python app.py
 - Launch the app by running the script with Python.
 - Select a category from the dropdown menu (e.g., Food, Animals, etc.).
 - Click on the Generate Image button to fetch and display a random image from Unsplash in the chosen category.
+### Code Explanation
+1. display_image(category)
+- This function retrieves a random image from Unsplash based on the selected category. It sends a request to the Unsplash API, downloads the image, and displays it in the main application window.
+
+- Parameters:
+- category (str): The selected category for the image (e.g., Food, Animals).
+- API Key: Ensure you replace client_id=YOUR_ACCESS_KEY with your actual Unsplash API key.
