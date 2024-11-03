@@ -23,7 +23,7 @@ You can install the required libraries with:
 ```bash
 pip install requests customtkinter pillow
 ```
-## Setup
+### Setup
 - Clone the repository or copy the code into a new Python file named app.py.
 
 - Obtain an Unsplash API access key:
@@ -31,3 +31,10 @@ pip install requests customtkinter pillow
 - Sign up on Unsplash Developers and create a new application to get an API key.
 - Replace client_id=YOUR_ACCESS_KEY in the code with your actual API key.
 - Run the program:
+```bash
+python app.py
+```
+### Usage
+- Launch the app by running the script with Python.
+- Select a category from the dropdown menu (e.g., Food, Animals, etc.).
+- Click on the Generate Image button to fetch and display a random image from Unsplash in the chosen category.
