@@ -45,3 +45,17 @@ python app.py
 - Parameters:
 - category (str): The selected category for the image (e.g., Food, Animals).
 - API Key: Ensure you replace client_id=YOUR_ACCESS_KEY with your actual Unsplash API key.
+2. enable_button(*args)
+- This function enables the Generate Image button only when a valid category is selected from the dropdown. If "Choose Category" is selected, the button remains disabled.
+
+3. create_gui()
+- This function sets up the main GUI layout, including:
+
+- The dropdown menu for category selection.
+- The Generate Image button, which triggers display_image() upon clicking.
+- An image display area (label) where the generated image will appear.
+4. CustomTkinter Settings
+- The app uses a light appearance mode and a custom teal-themed color scheme:
+
+- #8ecae6: Used as the primary button color.
+- #219ebc: Used as the hover color for buttons.
