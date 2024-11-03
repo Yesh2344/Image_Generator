@@ -60,7 +60,7 @@ python app.py
 - #8ecae6: Used as the primary button color.
 - #219ebc: Used as the hover color for buttons.
 ### Screenshots
-![Image Generator Screenshot]([https://github.com/Yesh2344/Image_Generator/picture.png](https://github.com/Yesh2344/Image_Generator/blob/main/picture.png))
+![Image Generator Screenshot](https://github.com/Yesh2344/Image_Generator/blob/main/picture.png)
 
 ### License
 - This project is licensed under the MIT License. See the LICENSE file for more details.
