@@ -59,3 +59,21 @@ python app.py
 
 - #8ecae6: Used as the primary button color.
 - #219ebc: Used as the hover color for buttons.
+### Screenshots
+
+### License
+- This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Acknowledgments
+- Unsplash API for providing the image data.
+- CustomTkinter for the customizable Tkinter framework.
+### Notes
+- Error Handling: This version does not handle network errors or invalid API keys, so ensure you have a stable internet connection and a valid API key.
+- API Rate Limits: The Unsplash API has rate limits for free-tier users. Please check your API usage if the app stops responding to requests.
+Future Enhancements
+Here are some potential improvements for the application:
+
+1. Error Handling: Add error handling for API requests to manage issues like rate limits or network errors.
+2. Image Saving Option: Include an option to save the displayed image to the local filesystem.
+3. Additional Categories: Enable users to enter custom categories instead of only selecting from the predefined list.
+4. Dark Mode: Add a toggle switch for dark mode for users who prefer a different theme.
