@@ -70,7 +70,7 @@ python app.py
 ### Notes
 - Error Handling: This version does not handle network errors or invalid API keys, so ensure you have a stable internet connection and a valid API key.
 - API Rate Limits: The Unsplash API has rate limits for free-tier users. Please check your API usage if the app stops responding to requests.
-Future Enhancements
+### Future Enhancements
 Here are some potential improvements for the application:
 
 1. Error Handling: Add error handling for API requests to manage issues like rate limits or network errors.
