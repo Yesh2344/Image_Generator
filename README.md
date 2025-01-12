@@ -78,3 +78,6 @@ Here are some potential improvements for the application:
 2. Image Saving Option: Include an option to save the displayed image to the local filesystem.
 3. Additional Categories: Enable users to enter custom categories instead of only selecting from the predefined list.
 4. Dark Mode: Add a toggle switch for dark mode for users who prefer a different theme.
+
+
+updated the UI with latest platforms
