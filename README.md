@@ -82,4 +82,5 @@ Here are some potential improvements for the application:
 
 updated the UI with latest platforms
 
+Email:yeswanthsoma83@gmail.com
 @YeswanthSoma All
