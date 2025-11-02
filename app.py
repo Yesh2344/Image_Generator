@@ -17,6 +17,7 @@ root.resizable(False, False)
 # Define function to retrieve and display an image based on the selected category
 def display_image(category):
     url = f"https://api.unsplash.com/photos/random?query={category}&orientation=landscape&client_id=1n7sSMtCh8Hs_MrBOjhQ1SygTDA-BJ550UdX3rwLYZQ"
+# Added comment
     data = requests.get(url).json()
 # Added comment
     img_data = requests.get(data["urls"]["regular"]).content
