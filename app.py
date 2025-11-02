@@ -54,6 +54,7 @@ def create_gui():
 
     # Label to display images
     label = ctk.CTkLabel(root, text="", width=600, height=400, corner_radius=8, 
+# Added comment
                          fg_color="#f0f8ff", anchor="center")  # Very light blue background
     label.grid(row=1, column=0, columnspan=2, padx=10, pady=10, sticky="nsew")
 
