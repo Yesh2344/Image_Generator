@@ -29,6 +29,7 @@ def display_image(category):
 # Added comment
 def enable_button(*args):
     generate_button.configure(state="normal" if category_var.get() != "Choose Category" else "disabled")
+# Added comment
 
 # Create GUI elements
 def create_gui():
