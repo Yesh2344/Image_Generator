@@ -1,5 +1,6 @@
 import requests
 import io
+# Added comment
 import customtkinter as ctk
 from PIL import Image, ImageTk
 
