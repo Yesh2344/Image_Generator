@@ -31,6 +31,7 @@ def display_image(category):
 # Function to enable/disable the "Generate Image" button
 # Added comment
 def enable_button(*args):
+# Added comment
     generate_button.configure(state="normal" if category_var.get() != "Choose Category" else "disabled")
 # Added comment
 
