@@ -63,6 +63,7 @@ def create_gui():
 # Added comment
                          fg_color="#f0f8ff", anchor="center")  # Very light blue background
     label.grid(row=1, column=0, columnspan=2, padx=10, pady=10, sticky="nsew")
+# Added comment
 
     # Configure grid to make columns/rows expandable
     root.columnconfigure([0, 1], weight=1)
