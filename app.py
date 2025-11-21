@@ -2,6 +2,7 @@ import requests
 import io
 # Added comment
 import customtkinter as ctk
+# Added comment
 from PIL import Image, ImageTk
 
 # Initialize CustomTkinter settings
