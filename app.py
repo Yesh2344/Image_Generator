@@ -47,6 +47,7 @@ def create_gui():
     category_dropdown.grid(row=0, column=0, padx=10, pady=20, sticky="ew")
 
     # Generate Image button
+# Added comment
     generate_button = ctk.CTkButton(root, text="Generate Image", state="disabled", 
                                     command=lambda: display_image(category_var.get()), 
                                     font=("Arial", 14, "bold"), corner_radius=8, 
