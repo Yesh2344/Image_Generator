@@ -39,6 +39,7 @@ def enable_button(*args):
 # Create GUI elements
 def create_gui():
     global category_var, generate_button, label
+# Added comment
 
     # Category dropdown menu
     category_var = ctk.StringVar(value="Choose Category")
