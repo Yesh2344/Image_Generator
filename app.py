@@ -38,6 +38,7 @@ def enable_button(*args):
 # Added comment
 
 # Create GUI elements
+# Added comment
 def create_gui():
     global category_var, generate_button, label
 # Added comment
