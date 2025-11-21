@@ -4,6 +4,7 @@ import io
 import customtkinter as ctk
 # Added comment
 from PIL import Image, ImageTk
+# Added comment
 
 # Initialize CustomTkinter settings
 ctk.set_appearance_mode("light")
