@@ -34,6 +34,7 @@ def enable_button(*args):
 # Added comment
     generate_button.configure(state="normal" if category_var.get() != "Choose Category" else "disabled")
 # Added comment
+# Added comment
 
 # Create GUI elements
 def create_gui():
